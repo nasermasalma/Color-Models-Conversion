@@ -10,7 +10,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-
+//this is my project   Naser Masalma
 
 @SuppressWarnings("serial")
 public class Activity extends JFrame {//name of class
